@@ -3,6 +3,7 @@
 	<name>basex-api</name>
 	<comment></comment>
 	<projects>
+		<project>basex-core</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
